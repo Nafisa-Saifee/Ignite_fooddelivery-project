@@ -1,0 +1,28 @@
+.app-download p{
+        margin-top: 100px;
+        padding-left: 100px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 700;
+}
+.app-download-platform-img1{
+        width: 165px;
+        height: 75px;
+       margin-left:465px;
+        display: block;
+        margin-top: 60px;
+        cursor: pointer;
+}
+.app-download-platform-img2{
+        width: 165px;
+        height: 155px;
+        margin-left:650px;
+        margin-top:-110px;
+        display: block;
+        cursor: pointer;
+}
+.app-download-platform img:hover{
+        transform: scale(1.05);
+}
