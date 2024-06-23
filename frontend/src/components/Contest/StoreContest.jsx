@@ -4,6 +4,7 @@ import { assets } from "../../assets/assets";
 import { food_list } from "../../assets/assets";
 
 
+
 export const StoreContest = createContext(null)
 
 const StoreContestProvider = (props) => {
@@ -14,7 +15,7 @@ const StoreContestProvider = (props) => {
 
         const [token,setToken] = useState("");
 
-        const [food_list,setFoodList] = useState([])
+        
 
 
         const addToCart = async (itemId) => {

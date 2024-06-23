@@ -124,7 +124,7 @@ export const food_list =[
         name: "Pudding",
         image: pudding,
         price: 5,
-        discription: "Food provides essential nutrients for health and well-being",
+        description: "Food provides essential nutrients for health and well-being",
         category: "Dessert"
         },
         {
@@ -132,7 +132,7 @@ export const food_list =[
         name: "Cup-cake",
         image: cup_cake,
         price: 7,
-        discription: "Food provides essential nutrients for health and well-being",
+        description: "Food provides essential nutrients for health and well-being",
         category: "Dessert"
         },
         {
@@ -140,7 +140,7 @@ export const food_list =[
         name: "Apple-pie",
         image: pie,
         price: 10,
-        discription: "Food provides essential nutrients for health and well-being",
+        description: "Food provides essential nutrients for health and well-being",
         category: "Dessert"
         },
         {
@@ -148,7 +148,7 @@ export const food_list =[
         name: "Macrons",
         image: macrons,
         price: 3,
-        discription: "Food provides essential nutrients for health and well-being",
+        description: "Food provides essential nutrients for health and well-being",
         category: "Dessert"
         },
         {
@@ -156,7 +156,7 @@ export const food_list =[
         name: "Cookies",
         image: cookies,
         price: 5,
-        discription: "Food provides essential nutrients for health and well-being",
+        description: "Food provides essential nutrients for health and well-being",
         category: "Dessert"
         },
         {
@@ -164,7 +164,7 @@ export const food_list =[
                 name: "Sandwich",
                 image: sandwich,
                 price: 9,
-                discription: "Food provides essential nutrients for health and well-being",
+                description: "Food provides essential nutrients for health and well-being",
                 category: "Fast-food"
                 },
                 {
@@ -172,7 +172,7 @@ export const food_list =[
                 name: "Burger",
                 image: burger,
                 price: 15,
-                discription: "Food provides essential nutrients for health and well-being",
+                description: "Food provides essential nutrients for health and well-being",
                 category: "Fast-food"
                 },
                 {
@@ -180,7 +180,7 @@ export const food_list =[
                 name: "Noodles",
                 image: noodles,
                 price: 25,
-                discription: "Food provides essential nutrients for health and well-being",
+                description: "Food provides essential nutrients for health and well-being",
                 category: "Fast-food"
                 },
                 {
@@ -188,7 +188,7 @@ export const food_list =[
                 name: "French-fries",
                 image: french_fries,
                 price: 10,
-                discription: "Food provides essential nutrients for health and well-being",
+                description: "Food provides essential nutrients for health and well-being",
                 category: "Fast-food"
                 },
                 {
@@ -196,7 +196,7 @@ export const food_list =[
                 name: "Nuggets",
                 image: nuggets,
                 price: 15,
-                discription: "Food provides essential nutrients for health and well-being",
+                description: "Food provides essential nutrients for health and well-being",
                 category: "Fast-food"
                 },
                 {
@@ -204,7 +204,7 @@ export const food_list =[
                         name: "Biryani",
                         image: biryani,
                         price: 25,
-                        discription: "Food provides essential nutrients for health and well-being",
+                        description: "Food provides essential nutrients for health and well-being",
                         category: "Lunch"
                         },
                         {
@@ -212,7 +212,7 @@ export const food_list =[
                         name: "Kabbab",
                         image: kabbab,
                         price: 15,
-                        discription: "Food provides essential nutrients for health and well-being",
+                        description: "Food provides essential nutrients for health and well-being",
                         category: "Lunch"
                         },
                         {
@@ -220,7 +220,7 @@ export const food_list =[
                         name: "Chicken-curry",
                         image: chicken_curry,
                         price: 35,
-                        discription: "Food provides essential nutrients for health and well-being",
+                        description: "Food provides essential nutrients for health and well-being",
                         category: "Lunch"
                         },
                         {
@@ -228,7 +228,7 @@ export const food_list =[
                         name: "Lasagna",
                         image: lasagna,
                         price: 20,
-                        discription: "Food provides essential nutrients for health and well-being",
+                        description: "Food provides essential nutrients for health and well-being",
                         category: "Lunch"
                         },
                         {
@@ -236,7 +236,7 @@ export const food_list =[
                         name: "Paella",
                         image: paella,
                         price: 10,
-                        discription: "Food provides essential nutrients for health and well-being",
+                        description: "Food provides essential nutrients for health and well-being",
                         category: "Lunch"
                         },
                         {
@@ -244,7 +244,7 @@ export const food_list =[
                                 name: "Greek-salad",
                                 image: greek_salad,
                                 price: 9,
-                                discription: "Food provides essential nutrients for health and well-being",
+                                description: "Food provides essential nutrients for health and well-being",
                                 category: "Salad"
                                 },
                                 {
@@ -252,7 +252,7 @@ export const food_list =[
                                 name: "Toasted-salad",
                                 image: toasted_salad,
                                 price: 5,
-                                discription: "Food provides essential nutrients for health and well-being",
+                                description: "Food provides essential nutrients for health and well-being",
                                 category: "Salad"
                                 },
                                 {
@@ -260,7 +260,7 @@ export const food_list =[
                                 name: "Ceaser-salad",
                                 image: ceaser_salad,
                                 price: 7,
-                                discription: "Food provides essential nutrients for health and well-being",
+                                description: "Food provides essential nutrients for health and well-being",
                                 category: "Salad"
                                 },
                                 {
@@ -268,7 +268,7 @@ export const food_list =[
                                 name: "Green-leaf salad",
                                 image: leafgreen_salad,
                                 price: 8,
-                                discription: "Food provides essential nutrients for health and well-being",
+                                description: "Food provides essential nutrients for health and well-being",
                                 category: "Salad"
                                 },
                                 {
@@ -276,7 +276,7 @@ export const food_list =[
                                 name: "Nicoise-salad",
                                 image: nicoise_salad,
                                 price: 17,
-                                discription: "Food provides essential nutrients for health and well-being",
+                                description: "Food provides essential nutrients for health and well-being",
                                 category: "Salad"
                                 },
                                 {
@@ -284,7 +284,7 @@ export const food_list =[
                                         name: "Coffee",
                                         image: coffee,
                                         price: 5,
-                                        discription: "Food provides essential nutrients for health and well-being",
+                                        description: "Food provides essential nutrients for health and well-being",
                                         category: "Beverages"
                                         },
                                         {
@@ -292,7 +292,7 @@ export const food_list =[
                                         name: "Tea",
                                         image: tea,
                                         price: 3,
-                                        discription: "Food provides essential nutrients for health and well-being",
+                                        description: "Food provides essential nutrients for health and well-being",
                                         category: "Beverages"
                                         },
                                         {
@@ -300,7 +300,7 @@ export const food_list =[
                                         name: "Ice-cream",
                                         image: ice_cream,
                                         price: 10,
-                                        discription: "Food provides essential nutrients for health and well-being",
+                                        description: "Food provides essential nutrients for health and well-being",
                                         category: "Beverages"
                                         },
                                         {
@@ -308,7 +308,7 @@ export const food_list =[
                                         name: "Coke",
                                         image: coke,
                                         price: 8,
-                                        discription: "Food provides essential nutrients for health and well-being",
+                                        description: "Food provides essential nutrients for health and well-being",
                                         category: "Beverages"
                                         },
                                         {
@@ -316,7 +316,7 @@ export const food_list =[
                                         name: "Juice",
                                         image: juice,
                                         price: 5,
-                                        discription: "Food provides essential nutrients for health and well-being",
+                                        description: "Food provides essential nutrients for health and well-being",
                                         category: "Beverages"
                                         }
 ]
